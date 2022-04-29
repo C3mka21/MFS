@@ -1,2 +1,3 @@
-## Welcome to GitHub Pages
-
+## Welcome to my repository syte
+#This repository for my discord server 
+#hahahhahhaha
