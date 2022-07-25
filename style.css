@@ -1,7 +1,7 @@
 body {
     color: white;
     font-size: 30px;
-    background: url(../image/background.jpg) no-repeat;
+    background: url('./image/background.jpg') no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -54,7 +54,7 @@ body {
 .inner-content {
     margin: 30px;
     min-height: 800px;
-    background: url(../image/content.jpg) no-repeat;
+    background: url('./image/content.jpg') no-repeat;
     background-size: cover;
 
 }
